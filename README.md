@@ -1,1 +1,1 @@
-# fotomatic.github.io
+# fotomatic
